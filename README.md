@@ -24,10 +24,12 @@
 
 ### ML
 
-[Python and Jupyter Notebooks](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
+#### 1.
 
-[Model representation](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/C1_W1_Lab02_Model_Representation_Soln.ipynb)
+[Python and Jupyter Notebooks](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
 
-[Cost function](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/C1_W1_Lab03_Cost_function_Soln.ipynb)
+[Model representation](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab02_Model_Representation_Soln.ipynb)
 
-[Gradient descent](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+[Cost function](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab03_Cost_function_Soln.ipynb)
+
+[Gradient descent](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
