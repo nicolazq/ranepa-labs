@@ -33,3 +33,9 @@
 [Cost function](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab03_Cost_function_Soln.ipynb)
 
 [Gradient descent](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w1/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+
+#### 2.
+
+[Python, NumPy and vectorization](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w2/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
+
+[Multiple linear regression](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/ml/w2/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
