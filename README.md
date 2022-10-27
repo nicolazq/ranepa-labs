@@ -20,7 +20,7 @@
 
 [07_sklearn.case_part1](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/mlda/07_sklearn.case_part1.ipynb)
 
-[07_sklearn.case_part1](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/mlda/07_sklearn.case_part1.ipynb)
+[08_sklearn.case_part2](https://githubtocolab.com/nicolazq/ranepa-labs/blob/master/mlda/08_sklearn.case_part2.ipynb)
 
 ### ML
 
